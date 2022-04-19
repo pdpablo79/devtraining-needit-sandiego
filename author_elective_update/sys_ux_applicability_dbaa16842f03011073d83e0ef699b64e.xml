@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_58872_needit.NeedIt Admins</api_name>
+        <description>Audience of users with the NeedIt admin role</description>
+        <name>NeedIt Admins</name>
+        <roles name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 10:10:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dbaa16842f03011073d83e0ef699b64e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt Admins</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_applicability_dbaa16842f03011073d83e0ef699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 10:42:58</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>da6edb4edb2e44100b9d21c405961913</instance_id>
+        <instance_name>dev97758</instance_name>
+        <name>sys_ux_applicability_dbaa16842f03011073d83e0ef699b64e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_58872_needit.NeedIt Admins</api_name><description>Audience of users with the NeedIt admin role</description><name>NeedIt Admins</name><roles name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-19 10:10:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dbaa16842f03011073d83e0ef699b64e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>NeedIt Admins</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_applicability_dbaa16842f03011073d83e0ef699b64e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-19 10:42:58</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>59984000</payload_hash>
+        <record_name>NeedIt Admins</record_name>
+        <reverted_from/>
+        <source>b31097862f32011073d83e0ef699b612</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 10:42:58</sys_created_on>
+        <sys_id>cbd22a4c2f03011073d83e0ef699b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180416b15810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 10:42:58</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>c3d22a4cef030110cb0c733b32e24cf6</update_guid>
+        <update_guid_history>c3d22a4cef030110cb0c733b32e24cf6:59984000,1d22e24c40030110ff4becffa639f373:-1481855603,c85b9a44690301105e270e79d4e1dd0f:59984000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2022-04-19 10:55:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>eb393910d0314a26acd434caa5d781d9</sys_id>
+        <sys_metadata>dbaa16842f03011073d83e0ef699b64e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Admins</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_dbaa16842f03011073d83e0ef699b64e</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_dbaa16842f03011073d83e0ef699b64e">cbd22a4c2f03011073d83e0ef699b6f6</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2022-04-19 10:55:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
